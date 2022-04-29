@@ -1,0 +1,262 @@
+.header{
+    background-image: url(pic1.jfif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    padding-top:30vh;
+
+    
+}
+*{
+     font-family: 'Montserrat Alternates', sans-serif;;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.h1{
+    font-size: 120px;
+    margin-bottom: -30px;
+    
+}
+.p1{
+    font-size: 30px;
+    
+    padding-top: 40px;
+    
+}
+.button1 {
+    background-color: #1D809F; 
+    border: none;
+    color: white;
+    padding: 25px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+   
+  }
+  .half1{
+      height:50vh;
+      padding-top: 90px;
+      text-align: center;
+  }
+  .h2{
+   
+    font-size: 30px;
+  }
+  .p2 {
+      padding-top: 20px;
+     
+      font-size: 20px;
+  }
+  .p2 a{
+      color:#1D809F;
+  }
+  .button2 {
+    background-color: #151616; 
+    border: none;
+    color: white;
+    padding: 25px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    margin-top: 45px;
+
+  }
+  .half2{
+    height:85vh;
+    text-align: center;
+    background-color: #1D809F;
+    padding-top: 90px;
+    
+    
+}
+.h3{
+   padding-top: 20px; 
+   font-size: 50px;
+   color: white;
+}
+.icon h3{
+    font-size: 20px;
+    padding-bottom: 10px;
+
+}
+.p3{
+    color: #E6B41B;
+    font-weight:bold ;
+    font-size: x-large;
+}
+.half3{
+    background-image: url(pic4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 50px;
+    height: 80vh;
+    margin-top: -120px;
+    
+    
+}
+.h4{
+    
+        padding-top: 20px; 
+        font-size: 80px;
+        color: black;
+        
+}
+.button3 {
+    background-color: #1D809F; 
+    border: none;
+    color: white;
+    padding: 25px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    margin-top: 45px;
+    margin-bottom: 20%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 55px;
+    padding-right: 55px;
+
+  }
+  .bi-phone, .bi-pencil, .bi-hand-thumbs-up, .bi-patch-question{
+      font-size: 60px;
+      background-color: white;
+      border-radius: 50%;
+      width: 120px;
+      height: 120px;
+      display: inline-block;
+      padding-top:30px;
+      margin: 40px 40px 20px 40px;
+      
+  }
+
+  .p4{
+      padding-bottom: 20vw;
+  }
+  .icon{
+      display: inline-block;
+  }
+ 
+.icon{
+    
+    padding-bottom: 20%;
+    margin-left: -20px;
+}
+.icon h3{
+    margin-top: -10%;
+    color: white;
+}
+.icon .p10{
+    color: rgb(224, 217, 217);
+    font-size: 10px;
+}
+i {
+color:#1D809F;
+    
+}
+.pic1{
+    background-image: url(pic2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 50%;
+    float: left;
+    padding-top: 20vh;
+}
+.pic2{
+    background-image: url(ice.jpg);
+    background-position: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 50%;
+    float: left;
+    padding-top: 20vh;
+    
+
+}
+.cleaner1{
+    clear: both;
+}
+.pic3{
+    background-image: url(pic5.jpg);
+    background-position: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 50%;
+    float: left;
+    padding-top: 20vh;
+    
+    
+}
+.pic4{
+    background-image: url(pic3.webp);
+    background-position: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 50%;
+    float: left;
+    padding-top: 20vh;
+    
+}    
+.cleaner2{
+    clear: both;
+}
+.photos{
+    width: 100vw;
+    height: 100vh;
+   text-align: center;
+   padding-top: 30px;
+   
+    
+    
+}
+.pics{
+    
+    background-color: bisque;
+    width: 70vw;
+    height: 70vh;
+    margin-left: 200px;
+    
+    
+    
+    
+}
+.photosHead{
+    margin-left: -140px;
+    margin-bottom: 20px;
+    margin-left: 50px ;
+   
+}
+.photosHead p{
+    color: #e7bb38;
+    font-size: larger;
+    font-weight: bold;
+    padding-top: -20px;
+}
+.photosHead h1{
+    font-size: 50px;
+}
+
